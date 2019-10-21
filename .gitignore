@@ -1,6 +1,7 @@
 venv
 app.db
 microblog.log*
+.env
 
 # Translations
 *.mo
